@@ -12,7 +12,6 @@ Below are screenshots of the frontend UI located at:
 <h2>User ui</h2>
 <img src="https://github.com/VanshK-MERN71/Canteen_Mangament_System/blob/main/Client/Canteen-Frontend/src/assets/Screenshot%202025-06-06%20124016.png" width="100%" />
 <img src="https://github.com/VanshK-MERN71/Canteen_Mangament_System/blob/main/Client/Canteen-Frontend/src/assets/Screenshot%202025-06-06%20124100.png" width="100%" />
-<img src="https://github.com/VanshK-MERN71/Canteen_Mangament_System/blob/main/Client/Canteen-Frontend/src/assets/Screenshot%202025-06-06%20124100.png" width="100%" />
 <img src="https://github.com/VanshK-MERN71/Canteen_Mangament_System/blob/main/Client/Canteen-Frontend/src/assets/Screenshot%202025-06-06%20124217.png" width="100%" />
 <h2>Admin ui</h2>
 <img src="https://github.com/VanshK-MERN71/Canteen_Mangament_System/blob/main/Client/Canteen-Frontend/src/assets/Screenshot%202025-06-06%20124239.png" width="100%" />
