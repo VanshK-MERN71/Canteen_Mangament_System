@@ -9,14 +9,16 @@ A full-stack canteen management system built using **MERN Stack** to streamline 
 Below are screenshots of the frontend UI located at:
 `Client/Canteen-Frontend/src/assets`
 
-<img src="https://raw.githubusercontent.com/VanshK-MERN71/Canteen_Mangament_System/main/Client/Canteen-Frontend/src/assets/ui1.png" width="100%" />
-<img src="https://raw.githubusercontent.com/VanshK-MERN71/Canteen_Mangament_System/main/Client/Canteen-Frontend/src/assets/ui2.png" width="100%" />
-<img src="https://raw.githubusercontent.com/VanshK-MERN71/Canteen_Mangament_System/main/Client/Canteen-Frontend/src/assets/ui3.png" width="100%" />
-<img src="https://raw.githubusercontent.com/VanshK-MERN71/Canteen_Mangament_System/main/Client/Canteen-Frontend/src/assets/ui4.png" width="100%" />
-<img src="https://raw.githubusercontent.com/VanshK-MERN71/Canteen_Mangament_System/main/Client/Canteen-Frontend/src/assets/ui5.png" width="100%" />
-<img src="https://raw.githubusercontent.com/VanshK-MERN71/Canteen_Mangament_System/main/Client/Canteen-Frontend/src/assets/ui6.png" width="100%" />
-<img src="https://raw.githubusercontent.com/VanshK-MERN71/Canteen_Mangament_System/main/Client/Canteen-Frontend/src/assets/ui7.png" width="100%" />
-<img src="https://raw.githubusercontent.com/VanshK-MERN71/Canteen_Mangament_System/main/Client/Canteen-Frontend/src/assets/ui8.png" width="100%" />
+<h2>User ui</h2>
+<img src="https://github.com/VanshK-MERN71/Canteen_Mangament_System/blob/main/Client/Canteen-Frontend/src/assets/Screenshot%202025-06-06%20124016.png" width="100%" />
+<img src="https://github.com/VanshK-MERN71/Canteen_Mangament_System/blob/main/Client/Canteen-Frontend/src/assets/Screenshot%202025-06-06%20124100.png" width="100%" />
+<img src="https://github.com/VanshK-MERN71/Canteen_Mangament_System/blob/main/Client/Canteen-Frontend/src/assets/Screenshot%202025-06-06%20124100.png" width="100%" />
+<img src="https://github.com/VanshK-MERN71/Canteen_Mangament_System/blob/main/Client/Canteen-Frontend/src/assets/Screenshot%202025-06-06%20124217.png" width="100%" />
+<h2>Admin ui</h2>
+<img src="https://github.com/VanshK-MERN71/Canteen_Mangament_System/blob/main/Client/Canteen-Frontend/src/assets/Screenshot%202025-06-06%20124239.png" width="100%" />
+<img src="https://github.com/VanshK-MERN71/Canteen_Mangament_System/blob/main/Client/Canteen-Frontend/src/assets/Screenshot%202025-06-06%20124852.png" width="100%" />
+<img src="https://github.com/VanshK-MERN71/Canteen_Mangament_System/blob/main/Client/Canteen-Frontend/src/assets/Screenshot%202025-06-06%20124942.png" width="100%" />
+<img src="https://github.com/VanshK-MERN71/Canteen_Mangament_System/blob/main/Client/Canteen-Frontend/src/assets/Screenshot%202025-06-06%20125000.png" width="100%" />
 
 ---
 
