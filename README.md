@@ -9,7 +9,7 @@ A full-stack canteen management system built using **MERN Stack** to streamline 
 Below are screenshots of the frontend UI located at:
 `Client/Canteen-Frontend/src/assets`
 
-<img src="https://github.com/VanshK-MERN71/Canteen_Mangament_System/blob/main/Client/Canteen-Frontend/src/assets/Screenshot%202025-06-06%20124016.png" width="100%" />
+<img src="https://raw.githubusercontent.com/VanshK-MERN71/Canteen_Mangament_System/main/Client/Canteen-Frontend/src/assets/ui1.png" width="100%" />
 <img src="https://raw.githubusercontent.com/VanshK-MERN71/Canteen_Mangament_System/main/Client/Canteen-Frontend/src/assets/ui2.png" width="100%" />
 <img src="https://raw.githubusercontent.com/VanshK-MERN71/Canteen_Mangament_System/main/Client/Canteen-Frontend/src/assets/ui3.png" width="100%" />
 <img src="https://raw.githubusercontent.com/VanshK-MERN71/Canteen_Mangament_System/main/Client/Canteen-Frontend/src/assets/ui4.png" width="100%" />
@@ -24,16 +24,21 @@ Below are screenshots of the frontend UI located at:
 
 #### 🔷 Frontend
 
-* **Vite.js** (React)
-* **Bootstrap**
-* **Fetch API**
-* **Context API** for state management
+- **Vite.js** (React)
+- **Bootstrap**
+- **Fetch API**
+- **nodemailer**
+- **Context API** (for state management)
 
 #### 🔶 Backend
 
-* **Node.js**
-* **Express.js**
-* **MongoDB** (Mongoose)
+- **Node.js**
+- **Express.js**
+- **MongoDB** (Mongoose)
+- **jsonwebtoken**
+- **multer** (for add product image)
+- **passport-google-oauth20**
+- **razorpay**
 
 ---
 
@@ -56,9 +61,11 @@ npm install
 👉 Create a `.env` file inside `server/` folder with the following content:
 
 ```
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
+RAZORPAY_KEY_ID= (paste here your razorpay-key-id)
+RAZORPAY_SECRET= (paste here razorpay-secret-key)
+EMAIL_USER= (paste here gmail api key for user sending email)
+EMAIL_PASS= (paste here email gmail key password)
+MONGO_URI= (paste here mongodb compass or Altlas url)
 ```
 
 ```bash
