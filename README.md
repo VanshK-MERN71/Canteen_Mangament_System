@@ -42,7 +42,6 @@ Below are screenshots of the frontend UI located at:
 - **Vite.js** (React)
 - **Bootstrap**
 - **Fetch API**
-- **nodemailer**
 - **Context API** (for state management)
 
 #### 🔶 Backend
@@ -51,6 +50,7 @@ Below are screenshots of the frontend UI located at:
 - **Express.js**
 - **MongoDB** (Mongoose)
 - **jsonwebtoken**
+- **nodemailer**
 - **multer** (for add product image)
 - **passport-google-oauth20**
 - **razorpay**
